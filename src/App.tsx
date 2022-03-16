@@ -23,6 +23,7 @@ function App() {
   setToShow(null);
   setHeightField(0);
   setWeightField(0);
+  window.scrollTo(0, 0);
  }
 
  return (
